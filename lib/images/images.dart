@@ -1,6 +1,6 @@
 class AppImages {
   static const String logo = 'lib/image/corn1.webp';
-  static const String avatar = 'assets/image/khmer_food.jpg';
+  static const String avatar = 'assets/images/avatar.png';
   static const String khmerFood = 'assets/images/khmer_food.jpg';
   static const String burgar = 'assets/images/burgar.png';
   static const String buy1free1 = 'assets/images/buy1free1.png';

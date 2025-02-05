@@ -54,7 +54,7 @@ class ProfileScreen extends StatelessWidget {
         Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('',
+            Text('Bopha',
                 style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold)),
